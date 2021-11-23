@@ -41,7 +41,7 @@ export default {
   build: {
   },
 
-  // server setup
+  // Server setup
   server:{
     port: 5000,
   }
